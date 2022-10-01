@@ -1,6 +1,6 @@
 {
 "group1":"699177519",
 "group2":"653950165",
-"vipgroup":"",
+"vipgroup":"  待创建",
 "choose":"1"
 }
